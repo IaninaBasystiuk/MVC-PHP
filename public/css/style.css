@@ -1,0 +1,74 @@
+html, body, ul {
+        margin: 0;
+        padding: 0;
+        
+    } 
+
+
+
+.test{
+   display: block;
+   background-color:azure;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 90px;
+   color: dimgray;
+   
+   
+}
+
+.aside{clear: both;
+            float: left;
+            width: 288px;
+            
+        
+        }
+        
+.aside li{
+    background-color: linen;
+    width: 100%;
+    text-align: center;
+    color: dimgray;
+    padding: 2px 0;
+}
+.aside li a {
+    color: dimgray;
+    text-decoration: none;
+}
+
+.aside li:hover{
+    background-color: cornsilk;
+}
+   
+
+ .contenue{
+            float: right;
+            width: 80%;
+            color: dimgray;
+            
+            
+}
+
+.contenue a{
+    background-color: linen;
+    text-decoration: none;
+}
+
+.contenue a:hover{
+    background-color: cornsilk;
+    text-decoration: none;
+}
+
+footer {clear: both;
+            
+        
+}
+
+th{
+    text-align: left;
+    background-color: azure;
+}
+
+tr{
+   background-color: beige; 
+}
